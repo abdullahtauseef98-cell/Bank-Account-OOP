@@ -1,0 +1,1 @@
+Withdraw | Account: 16 | Amount: 5000 | Balance: 5000
